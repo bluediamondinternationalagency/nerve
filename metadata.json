@@ -1,0 +1,6 @@
+{
+  "name": "Nerve Capital",
+  "description": "An institutional yet disruptive investment and venture builder platform bridging sophisticated fund management and hands-on venture execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
